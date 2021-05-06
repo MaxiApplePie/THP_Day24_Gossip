@@ -1,0 +1,2 @@
+class Goss < ApplicationRecord
+end
